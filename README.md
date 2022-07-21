@@ -1,16 +1,30 @@
-### Hi there 👋
+<h4 align="center">I use this following technologies :</h4>
 
-<!--
-**vic1997/vic1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  .NET / C# / ASP.NET / Blazor
+  •
+  Android / Java / Kotlin
+  •
+  Databases / SQLServer / MySQL / SQLite / SQL
+  •
+  Python
+</p>
 
-Here are some ideas to get you started:
+<h1></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  Stats:<br><br>
+</h3>
+
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://sculas-self-readme-stats-api.vercel.app/api?username=vic1997&show_icons=true&theme=dark" />
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://sculas-self-readme-stats-api.vercel.app/api/top-langs/?username=vic1997&theme=dark&layout=compact" />
+  </a>
+</p>
+
