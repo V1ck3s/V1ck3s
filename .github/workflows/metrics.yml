@@ -16,11 +16,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: vic1997
+          user: V1ck3s
           template: classic
           config_display: columns
           base: header, activity, community, repositories
-          commits_authoring: vic1997
+          commits_authoring: V1ck3s
           config_timezone: Europe/France
           plugin_achievements: yes
           plugin_achievements_display: detailed
