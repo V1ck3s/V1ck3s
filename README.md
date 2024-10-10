@@ -1,20 +1,20 @@
-<h1 align="center;">Vickes</h1>
+<h1 align="center">Vickes</h1>
 
-<h2 align="center;">Full stack developer</h2>
+<h2 align="center">Full stack developer</h2>
 
-<div align="center;">
+<div align="center">
   <img src="https://img.shields.io/github/followers/V1ck3s?color=green&logo=github" alt="GitHub followers" title="GitHub followers">
 </div>
 
-<p align="center;">:office: &nbsp;I'm currently working with <strong>.NET Blazor WASM</strong></p>
-<p align="center;">⌨️ &nbsp;I'm using <strong>C#</strong> and <strong>Python</strong></p>
-<p align="center;">:seedling: &nbsp;I’m currently learning <strong>DevOps</strong></p>
-<p align="center;">🖥️ &nbsp;I like to <strong>Self-Host</strong></p>
+<p align="center">:office: &nbsp;I'm currently working with <strong>.NET Blazor WASM</strong></p>
+<p align="center">⌨️ &nbsp;I'm using <strong>C#</strong> and <strong>Python</strong></p>
+<p align="center">:seedling: &nbsp;I’m currently learning <strong>DevOps</strong></p>
+<p align="center">🖥️ &nbsp;I like to <strong>Self-Host</strong></p>
 
-<h2 align="center;">I use the following technologies</h2>
+<h2 align="center">I use the following technologies</h2>
 
-<div align="center;">
-  <table style="margin: 0 auto;">
+<div align="center">
+  <table align="center">
     <tr>
       <th>Category</th>
       <th>Technologies</th>
@@ -58,6 +58,6 @@
   </table>
 </div>
 
-<div align="center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/V1ck3s/V1ck3s/main/github-metrics.svg" alt="GitHub Metrics">
 </div>
