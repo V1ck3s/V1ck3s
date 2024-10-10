@@ -1,128 +1,116 @@
-<h1 align="center" id="v1ck3s-title">Vickes</h1>
-<h3 align="center">Full stack developer</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vickes - Full Stack Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h3 {
+      text-align: center;
+    }
+    .center {
+      text-align: center;
+    }
+    .tech-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    .tech-table th, .tech-table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: center;
+    }
+    .tech-table th {
+      background-color: #f2f2f2;
+    }
+    .tech-table img {
+      width: 48px;
+      height: 48px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 id="v1ck3s-title">Vickes</h1>
+    <h3>Full stack developer</h3>
 
-<p align="center">
-  <a href="https://github.com/V1ck3s?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/V1ck3s?color=green&logo=github">
-  </a>
+    <div class="center">
+      <a href="https://github.com/V1ck3s?tab=followers">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/V1ck3s?color=green&logo=github">
+      </a>
+    </div>
 
-</p>
-<div align="center">
-  
-:office: &nbsp;I'm currently working with **.NET Blazor WASM** <br>
-⌨️ &nbsp;I'm using **C#** and **Python**<br>
-:seedling: &nbsp;I’m currently learning **DevOps**<br>
-🖥️ &nbsp;I like to **Self-Host**<br>
+    <div class="center">
+      <p>:office: &nbsp;I'm currently working with <strong>.NET Blazor WASM</strong></p>
+      <p>⌨️ &nbsp;I'm using <strong>C#</strong> and <strong>Python</strong></p>
+      <p>:seedling: &nbsp;I’m currently learning <strong>DevOps</strong></p>
+      <p>🖥️ &nbsp;I like to <strong>Self-Host</strong></p>
+    </div>
 
-</div>
+    <h3 id="V1ck3s">I use the following technologies</h3>
 
-<h3 align="center" id="V1ck3s">I use this following technologies</h3>
-
-
-<table>
-  <tr>
-    <td>
-      <h4 align="center">.NET</h4>
-        <table align="center">
-          <tr>
-            <td align="center" width="96">
-              <a href="#V1ck3s">
-                <img src="https://lh3.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk=w300" width="48" height="48" alt=".NET" />
-              </a>
-              <br>.NET
-            </td>
-            <td align="center" width="96">
-              <a href="#V1ck3s">
-                <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="48" height="48" alt="C#" />
-              </a>
-              <br>C#
-            </td>
-            <td align="center" width="96">
-              <a href="#V1ck3s">
-                <img src="https://image.pngaaa.com/619/4842619-middle.png" width="48" height="48" alt="Blazor" />
-              </a>
-              <br>Blazor
-            </td>
-          </tr>
-        </table>
-    </td>
-    <td>
-      <h4 align="center">Android</h4>
-      <table align="center">
-        <tr>
-          <td align="center" width="96">
-            <a href="#V1ck3s">
-              <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="48" height="48" alt="Java" />
-            </a>
-            <br>Java
-          </td>
-          <td align="center" width="96">
-            <a href="#V1ck3s">
-              <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" width="48" height="48" alt="Kotlin" />
-            </a>
-            <br>Kotlin
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td>
-    <h4 align="center">Other languages</h4>
-    <table align="center">
+    <table class="tech-table">
       <tr>
-        <td align="center" width="96">
-          <a href="#V1ck3s">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="48" height="48" alt="Python" />
-          </a>
-          <br>Python
+        <th>Category</th>
+        <th>Technologies</th>
+      </tr>
+      <tr>
+        <td>.NET</td>
+        <td>
+          <img src="https://lh3.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk=w300" alt=".NET" title=".NET">
+          <img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="C#" title="C#">
+          <img src="https://image.pngaaa.com/619/4842619-middle.png" alt="Blazor" title="Blazor">
+        </td>
+      </tr>
+      <tr>
+        <td>Android</td>
+        <td>
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" title="Java">
+          <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="Kotlin" title="Kotlin">
+        </td>
+      </tr>
+      <tr>
+        <td>Other languages</td>
+        <td>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" title="Python">
+        </td>
+      </tr>
+      <tr>
+        <td>DevOps</td>
+        <td>
+          <img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" alt="Docker" title="Docker">
+        </td>
+      </tr>
+      <tr>
+        <td>Database</td>
+        <td>
+          <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQLServer" title="SQLServer">
+          <img src="https://www.alouit-multimedia.com/wp-content/uploads/2012/08/mysql-logo_2800x2800_pixels1.png" alt="MySQL" title="MySQL">
+          <img src="https://logos-download.com/wp-content/uploads/2018/09/SQLite_Logo.png" alt="SQLite" title="SQLite">
+          <img src="https://icon-library.com/images/sql-icon/sql-icon-24.jpg" alt="SQL" title="SQL">
         </td>
       </tr>
     </table>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4 align="center">DevOps</h4>
-        <table align="center">
-          <tr>
-            <td align="center" width="96"> 
-              <a href="#V1ck3s" >
-                <img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" width="48" height="48" alt="Docker" />
-              </a>
-              <br>Docker
-            </td>
-          </tr>
-        </table>
-    </td>
-    <td>
-      <h4 align="center">Database</h4>
-      <table align="center">
-        <tr>
-          <td align="center" width="96">
-            <a href="#V1ck3s">
-              <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" width="48" height="48" alt="SQLServer" />
-            </a>
-            <br>SQLServer
-          </td>
-          <td align="center" width="96">
-            <a href="#V1ck3s">
-              <img src="https://www.alouit-multimedia.com/wp-content/uploads/2012/08/mysql-logo_2800x2800_pixels1.png" width="48" height="48" alt="MySQL" />
-            </a>
-            <br>MySQL
-          </td>
-          <td align="center" width="96">
-            <a href="#V1ck3s">
-              <img src="https://logos-download.com/wp-content/uploads/2018/09/SQLite_Logo.png" width="48" height="48" alt="SQLite" />
-            </a>
-            <br>SQLite
-          </td>
-          <td align="center" width="96">
-            <a href="#V1ck3s">
-              <img src="https://icon-library.com/images/sql-icon/sql-icon-24.jpg" width="48" height="48" alt="SQL" />
-            </a>
-            <br>SQL
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+
+    <div class="center">
+      <img src="github-metrics.svg" alt="GitHub Metrics">
+    </div>
+  </div>
+</body>
+</html>
