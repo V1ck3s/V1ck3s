@@ -1,63 +1,50 @@
-<h1 align="center">Vickes</h1>
-
-<h2 align="center">Full stack developer</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/V1ck3s?color=green&logo=github" alt="GitHub followers" title="GitHub followers">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Vickes;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<p align="center">:office: &nbsp;I'm currently working with <strong>.NET Blazor WASM</strong></p>
-<p align="center">⌨️ &nbsp;I'm using <strong>C#</strong> and <strong>Python</strong></p>
-<p align="center">:seedling: &nbsp;I’m currently learning <strong>DevOps</strong></p>
-<p align="center">🖥️ &nbsp;I like to <strong>Self-Host</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/V1ck3s?color=36BCF7&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
 
-<h2 align="center">I use the following technologies</h2>
+<details>
+<summary><b>À propos de moi</b></summary>
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td>.NET</td>
-      <td>
-        <img src="https://lh3.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk=w300" alt=".NET" title=".NET" width="50" height="50">
-        <img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="C#" title="C#" width="50" height="50">
-        <img src="https://image.pngaaa.com/619/4842619-middle.png" alt="Blazor" title="Blazor" width="50" height="50">
-      </td>
-    </tr>
-    <tr>
-      <td>Android</td>
-      <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" title="Java" width="50" height="50">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="Kotlin" title="Kotlin" width="50" height="50">
-      </td>
-    </tr>
-    <tr>
-      <td>Other languages</td>
-      <td>
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" title="Python" width="50" height="50">
-      </td>
-    </tr>
-    <tr>
-      <td>DevOps</td>
-      <td>
-        <img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" alt="Docker" title="Docker" width="50" height="50">
-      </td>
-    </tr>
-    <tr>
-      <td>Database</td>
-      <td>
-        <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQLServer" title="SQLServer" width="50" height="50">
-        <img src="https://www.alouit-multimedia.com/wp-content/uploads/2012/08/mysql-logo_2800x2800_pixels1.png" alt="MySQL" title="MySQL" width="50" height="50">
-        <img src="https://logos-download.com/wp-content/uploads/2018/09/SQLite_Logo.png" alt="SQLite" title="SQLite" width="50" height="50">
-        <img src="https://icon-library.com/images/sql-icon/sql-icon-24.jpg" alt="SQL" title="SQL" width="50" height="50">
-      </td>
-    </tr>
-  </table>
-</div>
+<ul>
+  <li>👨‍💻 Développeur full stack passionné</li>
+  <li>🚀 Actuellement sur <b>.NET Blazor WASM</b></li>
+  <li>💻 J'utilise <b>C#</b> et <b>Python</b></li>
+  <li>🌱 J'apprends le <b>DevOps</b></li>
+  <li>🖥️ J'aime l'<b>auto-hébergement</b></li>
+</ul>
+</details>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/V1ck3s/V1ck3s/main/github-metrics.svg" alt="GitHub Metrics">
-</div>
+<details>
+<summary><b>Technologies & outils</b></summary>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/>
+</p>
+
+</details>
+
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%"/>
+</p>
